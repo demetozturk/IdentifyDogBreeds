@@ -1,2 +1,15 @@
 # IdentifyDogBreeds
-It is repo from the project in UDACITY Python for AI project. 
+
+This repository contains the project developed as part of the **UDACITY Python for AI** program. 
+
+### Overview
+
+In this repository, you'll find dog images along with three different models and their corresponding code modifications. The project is designed to help you explore and understand how different functions and models are implemented and utilized.
+
+### How to Use
+
+- Review the files named `*_hints`. These files include **TODO** comments that explain the purpose of various functions and guide you through their implementation.
+- You are encouraged to replace or refine the existing code to build your own functions.
+- Once your custom functions are ready, you can run the project to see your modifications in action.
+
+Feel free to explore, modify, and enhance the code as you develop your skills.
